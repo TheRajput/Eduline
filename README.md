@@ -1,2 +1,2 @@
 # Eduline
-link of this site :-  http://eduline.com/
+link of this site :- https://therajput.github.io/Eduline/
